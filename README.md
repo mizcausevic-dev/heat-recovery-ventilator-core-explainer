@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/heat-recovery-ventilator-core-explainer/
 
+Repository: https://github.com/mizcausevic-dev/heat-recovery-ventilator-core-explainer
+
 ## What this is
 
 An interactive anatomy plate for Heat-Recovery Ventilator Core. Play, scrub, or jump the five stages. The same frame always draws the same picture.
